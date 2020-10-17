@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Software Engineer :: Full Stack Web Developer :: Systems Administrator :: Network Engineer :: Graphic designer
-
     ___________.__        __                .__                  _______  .__        __    
     \__    ___/|__| ____ |  | __ ___________|__| ____    ____    \      \ |__| ____ |  | __
       |    |   |  |/    \|  |/ // __ \_  __ \  |/    \  / ___\   /   |   \|  |/ ___\|  |/ /
       |    |   |  |   |  \    <\  ___/|  | \/  |   |  \/ /_/  > /    |    \  \  \___|    < 
       |____|   |__|___|  /__|_ \\___  >__|  |__|___|  /\___  /  \____|__  /__|\___  >__|_ \
                        \/     \/    \/              \//_____/           \/        \/     \/
+
+### :: Software Engineer :: Full Stack Web Developer :: Systems Administrator :: Network Engineer :: Graphic designer ::
