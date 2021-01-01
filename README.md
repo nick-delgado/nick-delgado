@@ -21,3 +21,7 @@ Here are some ideas to get you started:
                        \/     \/    \/              \//_____/           \/        \/     \/
 
 ### :: Software Engineer :: Full Stack Web Developer :: Systems Administrator :: Network Engineer :: Graphic designer ::
+
+
+[My Resume](I.N.Delgado.CV.pdf)
+
