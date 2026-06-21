@@ -9,5 +9,4 @@
 ### :: Full Stack Software Engineer :: DevOps :: Systems Administrator :: Network Engineer ::
 
 
-[My Resume](I.N.Delgado.CV.pdf)
-
+[My Resume](Ivan Nicolas Delgado - Resume.pdf)
